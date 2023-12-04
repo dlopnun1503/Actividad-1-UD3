@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s ="Genero autor" xmlns:l ="Genero libro">
+<libreria autores="Españoles">
+
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Cervantes</apellido1>
+            <apellido2>Saavedra</apellido2>
+            <nombre>Miguel</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>El ingenioso hidalgo Don Quijote De La Mancha</titulo>
+    <editorial>Catedra</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>16</dia>
+        <mes>Enero</mes>
+        <anio>1605</anio>
+    </FechaPublicacion>
+    <ISBN>9788408061052</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Rojas</apellido1>
+            <apellido2></apellido2>
+            <nombre>Fernando</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>La Celestina</titulo>
+    <editorial>La Mar De Fácil</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>Desconocido</dia>
+        <mes>Desconocido</mes>
+        <anio>1499</anio>
+    </FechaPublicacion>
+    <ISBN>9781589771260</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Hurtado</apellido1>
+            <apellido2>Mendoza</apellido2>
+            <nombre>Diego</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>El Lazarillo De Tormes</titulo>
+    <editorial>Juventud</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>Desconocido</dia>
+        <mes>Desconocido</mes>
+        <anio>1554</anio>
+    </FechaPublicacion>
+    <ISBN>9788497406826</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Lope de Vega</apellido1>
+            <apellido2>Carpio</apellido2>
+            <nombre>Félix</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>Fuenteovejuna</titulo>
+    <editorial>Austral</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>Desconocido</dia>
+        <mes>Desconocido</mes>
+        <anio>1619</anio>
+    </FechaPublicacion>
+    <ISBN>9780828870412</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Alas</apellido1>
+            <apellido2></apellido2>
+            <nombre>Leopoldo</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>La Regenta</titulo>
+    <editorial>Austral</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>Desconocido</dia>
+        <mes>Desconocido</mes>
+        <anio>1884</anio>
+    </FechaPublicacion>
+    <ISBN>9788423916672</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Zorrilla</apellido1>
+            <apellido2></apellido2>
+            <nombre>Jose</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>Don Juan Tenorio</titulo>
+    <editorial>Catedra</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>28</dia>
+        <mes>Marzo</mes>
+        <anio>1844</anio>
+    </FechaPublicacion>
+    <ISBN>9788469848517</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Pardo</apellido1>
+            <apellido2>Bazán</apellido2>
+            <nombre>Emilia</nombre>
+            <s:genero>Mujer</s:genero>
+        </autor>
+    </autores>
+    <titulo>Los Pazos de Ulloa</titulo>
+    <editorial>La Mar De Fácil</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>Desconocido</dia>
+        <mes>Desconocido</mes>
+        <anio>1886</anio>
+    </FechaPublicacion>
+    <ISBN>9788419772176</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Calderón</apellido1>
+            <apellido2>De la Barca</apellido2>
+            <nombre>Pedro</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>La vida es un sueño</titulo>
+    <editorial>Catedra</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>Desconocido</dia>
+        <mes>Desconocido</mes>
+        <anio>1635</anio>
+    </FechaPublicacion>
+    <ISBN>9788420725895</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>Valle-Inclán</apellido1>
+            <apellido2></apellido2>
+            <nombre>Ramón María</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>Luces de Bohemia</titulo>
+    <editorial>Austral</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>23</dia>
+        <mes>Octubre</mes>
+        <anio>1923</anio>
+    </FechaPublicacion>
+    <ISBN>9788423938735</ISBN>
+</libro>
+
+<libro>
+    <autores>
+        <autor>
+            <apellido1>García</apellido1>
+            <apellido2>Lorca</apellido2>
+            <nombre>Federico</nombre>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <titulo>La Casa de Bernarda Alba</titulo>
+    <editorial>Catedra</editorial>
+    <l:genero>Aventura</l:genero>
+    <FechaPublicacion>
+        <dia>8</dia>
+        <mes>Marzo</mes>
+        <anio>1945</anio>
+    </FechaPublicacion>
+    <ISBN>9788469833070</ISBN>
+</libro>
+    
+
+</libreria>
+</root>
